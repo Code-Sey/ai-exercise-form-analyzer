@@ -106,3 +106,6 @@ or Developers interested in AI movement analysis,
 
 In the future, I will add more excercises, use on screen and voice feedback, and train my very own model as well as making an app
 
+**Demo Video**
+[https://youtu.be/SsT3RmO5uZ4](url)
+
