@@ -26,7 +26,7 @@ It analyzes your form live and tells you what your body is doing automatically
 Tracks hip–knee–ankle angles in real time
 
 Recognizes squat stages (s1 → s2 → s3 → s1)
-![Side Mode demo](assets/Screenshot%20(6).png))
+![Side Mode demo](assets/Screenshot%20(6).png)
 
 
 
